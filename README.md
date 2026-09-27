@@ -10,3 +10,4 @@ Repository tugas praktikum mata kuliah Penambangan Data.
 | Folder | Tugas |
 |---|---|
 | [tugas-scrapping-eda](tugas-scrapping-eda) | Tugas 1 - Scraping & Eksplorasi Data (EDA) |
+| [tugas-praproses-data](tugas-praproses-data) | Tugas 2 - Praproses Data |
