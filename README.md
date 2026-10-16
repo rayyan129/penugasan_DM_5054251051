@@ -11,3 +11,4 @@ Repository tugas praktikum mata kuliah Penambangan Data.
 |---|---|
 | [tugas-scrapping-eda](tugas-scrapping-eda) | Tugas 1 - Scraping & Eksplorasi Data (EDA) |
 | [tugas-praproses-data](tugas-praproses-data) | Tugas 2 - Praproses Data |
+| [tugas-ensemble](tugas-ensemble) | Tugas 3 - Ensemble Method & Class Imbalance |
